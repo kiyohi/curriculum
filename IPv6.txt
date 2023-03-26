@@ -1,6 +1,6 @@
 （１）MACアドレス：AAAA.AAAA.AAAA
 
-　　　AA AA FF FE AA AA AA
+　　　A8 AA AA FF FE AA AA AA
 
 （２）MACアドレス：9876.5432.10FE
 
